@@ -15,7 +15,7 @@
 
 ### 📬 Контакты
 - GitHub: [ссылка](https://github.com/Vudach)
-- Telegram: @Mizuki678
+- Telegram: [ссылка](@Mizuki678)
 - Email: rushan.chernyshov@inbox.ru
 
 **Готов к интервью в Т-Банк. Хочу решать сложные задачи в Шопинг и Реклама.**
